@@ -21,7 +21,7 @@ You can access our team's working prototype (research presentations) at [this si
       <th colspan="2"></th><th colspan="6">Point & Hour Counts</th><th colspan="2"></th>
     </tr> 
     <tr>
-      <th>Issue</th><th>Linked PR</th><th>Total</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th><th>TM5</th><th>% Complete</th><th>Notes</th>
+      <th>Issue</th><th>Linked PR</th><th>Total</th><th>Dan</th><th>Emma</th><th>Connor</th><th>Matt</th><th>TM5</th><th>% Complete</th><th>Notes</th>
     </tr>
   </thead> 
   <tbody>
@@ -39,10 +39,10 @@ You can access our team's working prototype (research presentations) at [this si
 #### Reflection Statements
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
-|TM1| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|TM2| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|TM3| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|TM4| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Dan| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Emma| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Connor| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Matt| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 
 ### Testing
 
@@ -57,7 +57,7 @@ Since we have not done any coding yet, the only testing that we had was making s
       <th></th><th colspan="5">Post/Reply Counts</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Total</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th>
+      <th>Date</th><th>Total</th><th>Dan</th><th>Emma</th><th>Connor</th><th>Matt</th>
     </tr>
   </thead> 
   <tbody>
@@ -76,7 +76,7 @@ Since we have not done any coding yet, the only testing that we had was making s
       <th colspan="2"></th><th colspan="4">In attendance?</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Duration (min)</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th></th>
+      <th>Date</th><th>Duration (min)</th><th>Dan</th><th>Emma</th><th>Connor</th><th>Matt</th></th>
     </tr>
   </thead> 
   <tbody>
@@ -104,7 +104,7 @@ Since we have not done any coding yet, the only testing that we had was making s
       <th colspan="2"></th><th colspan="4">In attendance?</th><th></th>
     </tr> 
     <tr>
-      <th>Date</th><th>Duration (min)</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th><th>Notes</th>
+      <th>Date</th><th>Duration (min)</th><th>Dan</th><th>Emma</th><th>Connor</th><th>Matt</th><th>Notes</th>
     </tr>
   </thead> 
   <tbody>
@@ -122,11 +122,10 @@ Since we have not done any coding yet, the only testing that we had was making s
 #### Reflection Statements
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
-|TM1| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|TM2| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|TM3| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|TM4| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|TM5| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Dan| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Emma| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Connor| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Matt| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
 
 ### Retrospective
 
