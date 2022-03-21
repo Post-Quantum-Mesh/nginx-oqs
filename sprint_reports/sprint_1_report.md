@@ -10,7 +10,7 @@ You can access our team's working prototype (research presentations) at [this si
 ## Team members
 1. **Team leader:** Daniel Rouhana (GitHub Id)*
 1. *Team member 2 Emma Dickenson (GitHub Id)*
-1. *Team member 3 Connor Dellwo (GitHub Id)*
+1. *Team member 3 Connor Dellwo (connordellwo)*
 1. *Team member 4 Matt Balint (GitHub Id)*
 
 ### Progress
