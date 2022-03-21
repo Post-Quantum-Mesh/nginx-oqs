@@ -83,6 +83,9 @@ Since we have not done any coding yet, the only testing that we had was making s
       <td>2/1/22</td><td>75</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
     <tr>
+      <td>2/3/22</td><td>60</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+    </tr>
+    <tr>
       <td>2/22/22</td><td>100</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
     <tr>
@@ -91,7 +94,7 @@ Since we have not done any coding yet, the only testing that we had was making s
     <tr>
       <td>3/8/22</td><td>95</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>362</b></td><td><b>4</b></td><td><b>4</b></td><td><b>4</b></td><td><b>4</b></td><td><b>4</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>412</b></td><td><b>4</b></td><td><b>4</b></td><td><b>4</b></td><td><b>4</b></td><td><b>4</b></td>
     </tr>
   </tbody>
 </table>
