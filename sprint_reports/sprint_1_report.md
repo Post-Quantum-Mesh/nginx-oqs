@@ -5,7 +5,6 @@
 
 ## Link to Working Prototype
 You can access our team's working prototype (research presentations and demos) through our github folder [presentations](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/presentations)
-*(If your working prototype is not deployed to the web, then provide instructions here for downloading/installing your prototype)*
 
 ## Team members
 1. Team leader: Daniel Rouhana (19671)*
