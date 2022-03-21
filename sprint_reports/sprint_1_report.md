@@ -134,16 +134,15 @@ You can access our team's working prototype (research presentations) at [this si
 [Link to Recording](https://wsu.zoom.us/recording)
 
 #### What went well
-  - Item 1
-  - Item 2
-  - Item x
+  - Our division of labor for the presentations went smoothly. We split into two groups where one group presented cloud computing and the other presented quantum computing while the other group listened. The other group then spent additional time studying the material from the other group. This allowed both groups to become well versed in both knowledge areas. 
+  - We presented each presentation twice. First we did a practice presentation where we presented the presentation just to the other group so that they could ask questions throughout the presentation. Then, we presented a second time with the sponsor to solidify the other group's knowledge. 
+  - We split into small groups for creating documents, such as the design document and requirements document. The people who did not write the document were in charge of editing the document before submission.
   
  #### What we'd like to improve
-  - Item 1
-  - Item 2
-  - Item x
+  - Stick stronger to our deadlines.
+  - Begin the coding portion of our project.
+  - Increase the amount of communication between our group.
   
 #### Changes we plan to implement in next sprint period
-  - Item 1
-  - Item 2
-  - Item x
+  - We hope to meet with our sponsor and gain a clearer understanding of what we will be implementing for our project so that we can begin the coding portion.
+  - Have solid deadlines for the coding portion of our project.
