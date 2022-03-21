@@ -28,46 +28,46 @@ You can access our team's working prototype (research presentations and demos) t
       <td><a href="https://github.com/issue">Issue #1</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>2.25</td><td>3<br/>1.5</td><td>1<br/>0.25</td><td>1<br/>0.5</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft Section 1.1.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #2</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Project Description Draft Section 1.2.</td>
+     <td><a href="https://github.com/issue">Issue #2</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Project Description Draft Section 1.2.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #3</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Project Description Draft Section 3.</td>
+     <td><a href="https://github.com/issue">Issue #3</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Project Description Draft Section 3.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #4</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Research Presentation Topic 1 (Cloud Computing).</td>
+     <td><a href="https://github.com/issue">Issue #4</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Research Presentation Topic 1 (Cloud Computing).</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #5</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Research Presentation Topic 2 (Quantum Computing).</td>
+     <td><a href="https://github.com/issue">Issue #5</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Research Presentation Topic 2 (Quantum Computing).</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #6</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Project Description Draft Review.</td>
+     <td><a href="https://github.com/issue">Issue #6</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Project Description Draft Review.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #7</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Project Requirements Draft Review.</td>
+     <td><a href="https://github.com/issue">Issue #7</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Project Requirements Draft Review.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #8</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Project Description Draft section 1.3.</td>
+     <td><a href="https://github.com/issue">Issue #8</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Project Description Draft section 1.3.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #9</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Project Description Draft.</td>
+     <td><a href="https://github.com/issue">Issue #9</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Project Description Draft.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #10</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Topic 1 (Cloud Computing) presentation syllabus. </td>
+     <td><a href="https://github.com/issue">Issue #10</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Topic 1 (Cloud Computing) presentation syllabus. </td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #11</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Topic 2 (Quantum Computing) presentation syllabus.</td>
+     <td><a href="https://github.com/issue">Issue #11</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Topic 2 (Quantum Computing) presentation syllabus.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #12</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Topic 2 (Quantum Computing) Part 2 presentation.</td>
+     <td><a href="https://github.com/issue">Issue #12</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Topic 2 (Quantum Computing) Part 2 presentation.</td>
     </tr>
      <tr>
-     <td><a href="https://github.com/issue">Issue #13</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Topic 1 (Quantum Computing) Part 2 presentation preparation but have not presentated yet. Presentation is scheduled for 3/22.</td>
+     <td><a href="https://github.com/issue">Issue #13</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>75</td><td>Completed Topic 1 (Quantum Computing) Part 2 presentation preparation but have not presentated yet. Presentation is scheduled for 3/22.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #14</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Sprint 1 Video.</td>
+     <td><a href="https://github.com/issue">Issue #14</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Sprint 1 Video.</td>
     </tr>
         <tr>
-     <td><a href="https://github.com/issue">Issue #15</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Sprint 1 Report.</td>
+     <td><a href="https://github.com/issue">Issue #15</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Sprint 1 Report.</td>
     </tr>
     <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>8</b></td><td><b>3</b></td><td><b>1</b></td><td><b>1</b></td><td><b>0.8</b></td><td><b>0.4</b></td><td colspan="2"></td>
     </tr>
