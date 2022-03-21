@@ -131,7 +131,10 @@ You can access our team's working prototype (research presentations) at [this si
 
 ### Retrospective
 
-[Link to Recording](https://wsu.zoom.us/recording)
+We forgot to record this sprint's retrospective but we will record the next one. Here are some key notes from our meeting:
+- At first, we had some issues communicating. We were all on different schedules and had troubles adjusting to other team member's schedules
+- Quickly, we addressed each others concerns about work habits and our team cohesion increased drastically
+- We like working in small teams and presenting and editing other team's work
 
 #### What went well
   - Our division of labor for the presentations went smoothly. We split into two groups where one group presented cloud computing and the other presented quantum computing while the other group listened. The other group then spent additional time studying the material from the other group. This allowed both groups to become well versed in both knowledge areas. 
