@@ -8,11 +8,10 @@ You can access our team's working prototype (research presentations) at [this si
 *(If your working prototype is not deployed to the web, then provide instructions here for downloading/installing your prototype)*
 
 ## Team members
-1. **Team leader:** *name (GitHub Id)*
+1. **Team leader:** Daniel Rouhana (GitHub Id)*
 1. *Team member 2 Emma Dickenson (GitHub Id)*
-1. *Team member 3 Connor De (GitHub Id)*
-1. *Team member 4 name (GitHub Id)*
-1. *Team member 5 name (GitHub Id)*
+1. *Team member 3 Connor Dellwo (GitHub Id)*
+1. *Team member 4 Matt Balint (GitHub Id)*
 
 ### Progress
 #### Issues, Points and Hours
@@ -47,10 +46,7 @@ You can access our team's working prototype (research presentations) at [this si
 |TM5| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 ### Testing
 
-|Issue | Test File | Feature Tested | Results Summary | 
-|------|-----------|----------------|-----------------|
-|[Issue #](https://github.com/issue)| [Google.js](https://www.github.com/)|Google Authentication| [3/3 tests passed](https://yoursite.com/animated.gif) | [
-|[Issue #](https://github.com/issue)| [routes.js](https://www.github.com/)|PUT and DELETE routes for rounds | [15/15 tests passed](https://yoursite.com/animated.gif) |
+Since we have not done any coding yet, the only testing that we had was making sure that we understood the material that our sponsor wanted us to understand (quantum and cloud computing). We tested our knowledge by presenting the material to our sponsor. He asked us questions to ensure that we understood the material to the extent that he wanted.
   
 ### Communication
  
