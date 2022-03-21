@@ -79,14 +79,7 @@ You can access our team's working prototype (research presentations and demos) t
 |-------------|-------------------|
 |Dan| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 |Emma| My main focus for this milestone was on an overview of cloud computing. I put in hours of research on what cloud computing and cloud native is. For the first presentation, I gave an overview of cloud computing and cloud native. For the second presentation, I researched and presented an overview of proxies. I also explained what Envoy is. Aside from my own presentation materials, I spent a lot of time studying the other group members materials, especially the quantum computing materials. |
-|Connor| For this milestone I was primarily focused on learning the basics of cloud computing
-and learning selected specifics to a level where I could teach my fellow group members during
-our presentations. For the first presentation I was primarily focused on various
-cloud computing models, their use cases, and their associated benefits and drawbacks.
-For the second presentation I have been focusing on the underlying technologies that
-enable cloud computing to take place such as TCP, UDP, and TLS. In addition to preparing
-information to present to my groupmates and sponsor, I have been studying quantum computing basics
-and the requisite background mathematics to properly understand quantum computation. |
+|Connor| For this milestone I was primarily focused on learning the basics of cloud computing and learning selected specifics to a level where I could teach my fellow group members during our presentations. For the first presentation I was primarily focused on various cloud computing models, their use cases, and their associated benefits and drawbacks. For the second presentation I have been focusing on the underlying technologies that enable cloud computing to take place such as TCP, UDP, and TLS. In addition to preparing information to present to my groupmates and sponsor, I have been studying quantum computing basics and the requisite background mathematics to properly understand quantum computation. |
 |Matt| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 
 ### Testing
