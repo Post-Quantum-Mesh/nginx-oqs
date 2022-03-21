@@ -144,7 +144,7 @@ We forgot to record this sprint's retrospective but we will record the next one.
   - Stick stronger to our deadlines.
   - Begin the coding portion of our project.
   - Increase the amount of communication between our group.
-  - Be aware of class expectations beyond what our advisor is asking us to do.
+  - Be aware of course expectations beyond what our advisor is asking us to do.
   
 #### Changes we plan to implement in next sprint period
   - We hope to meet with our sponsor and gain a clearer understanding of what we will be implementing for our project so that we can begin the coding portion.
