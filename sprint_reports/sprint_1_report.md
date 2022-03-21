@@ -62,12 +62,9 @@ Since we have not done any coding yet, the only testing that we had was making s
   </thead> 
   <tbody>
     <tr>
-      <td>11/9/21</td><td>5</td><td>2</td><td>1</td><td>1</td><td>1</td><td>0</td>
+     <td>3/15/21</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td><td>1</td>
     </tr>
-    <tr>
-     <td>3/15/21</td><td>4</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td>
-    </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>9</b></td><td><b>3</b></td><td><b>2</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>100</b></td><td><b>100</b></td><td><b>100</b></td><td><b>100</b></td><td><b>1</b></td><td><b>1</b></td>
     </tr>
   </tbody>
 </table>
@@ -86,10 +83,16 @@ Since we have not done any coding yet, the only testing that we had was making s
     <tr>
       <td>2/1/22</td><td>75</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-     <tr>
-      <td>11/12/21</td><td>31</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+    <tr>
+      <td>2/22/22</td><td>100</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>48</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td>
+    <tr>
+      <td>2/24/22</td><td>92</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+    </tr>
+    <tr>
+      <td>3/8/22</td><td>95</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+    </tr>
+    <tr><td align="right"><b>Totals:</b></td><td><b>362</b></td><td><b>4</b></td><td><b>4</b></td><td><b>4</b></td><td><b>4</b></td><td><b>4</b></td>
     </tr>
   </tbody>
 </table>
@@ -141,6 +144,7 @@ We forgot to record this sprint's retrospective but we will record the next one.
   - Stick stronger to our deadlines.
   - Begin the coding portion of our project.
   - Increase the amount of communication between our group.
+  - Be aware of class expectations beyond what our advisor is asking us to do.
   
 #### Changes we plan to implement in next sprint period
   - We hope to meet with our sponsor and gain a clearer understanding of what we will be implementing for our project so that we can begin the coding portion.
