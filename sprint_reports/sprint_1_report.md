@@ -7,7 +7,7 @@
 You can access our team's working prototype (research presentations and demos) through our github folder [presentations](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/presentations)
 
 ## Team members
-1. Team leader: Daniel Rouhana (drouhana)*
+1. **Team leader:** Daniel Rouhana (drouhana)
 1. Team member 2 Emma Dickenson (emmadickenson4)
 1. Team member 3 Connor Dellwo (connordellwo)
 1. Team member 4 Matt Balint (mattbal)
@@ -81,7 +81,11 @@ You can access our team's working prototype (research presentations and demos) t
 |Dan| Sprint 1 was entirely focused on quantum computing, encryption, and the underlying mathematical principles. In order to truly express positive knowledge of the material, I felt I had to internalize it to the point where I could then teach it, at least in a rudimentary fashion. The first presentation was a comprehensive on the fundamentals of the quantum model of computation, and the probabilistic mechanisms that underly its action. The second presentation was a deep dive into encryption, the mathematical structures that motivate it (mostly group theory), and quantum encryption algorithms. |
 |Emma| My main focus for this milestone was on an overview of cloud computing. I put in hours of research on what cloud computing and cloud native is. For the first presentation, I gave an overview of cloud computing and cloud native. For the second presentation, I researched and presented an overview of proxies. I also explained what Envoy is. Aside from my own presentation materials, I spent a lot of time studying the other group members materials, especially the quantum computing materials. |
 |Connor| For this milestone I was primarily focused on learning the basics of cloud computing and learning selected specifics to a level where I could teach my fellow group members during our presentations. For the first presentation I was primarily focused on various cloud computing models, their use cases, and their associated benefits and drawbacks. For the second presentation I have been focusing on the underlying technologies that enable cloud computing to take place such as TCP, UDP, and TLS. In addition to preparing information to present to my groupmates and sponsor, I have been studying quantum computing basics and the requisite background mathematics to properly understand quantum computation. |
-|Matt| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Matt| This sprint, I worked on the Cloud Computing team and I created two code demos and helped prepare two, one and a half hour long presentations on cloud computing.
+
+This sprint, I worked on the Cloud Computing team and helped prepare two, 1 1/2 hour long presentations on cloud computing, so we could teach the other half of our team about cloud computing. In order to create the presentation, I had to spend dozens of hours learning about virtual machines, containerization technology, Docker, Kubernetes, reverse proxies, load balancing, and NGINX. I also created two code demos that we showed at the end of our presentation to help solidify the material we presented. One of the code demos was a Docker tutorial and the other one was an NGINX tutorial.
+
+I also helped write the Project Requirements Draft with Connor and I made our Sprint 1 Update video. |
 
 ### Testing
 
@@ -167,7 +171,7 @@ Since we have not done any coding yet, the only testing that we had was making s
 |Dan| I am pleased to say that I have learned a lot about communication in the time we've worked together. We have faced challenges from time differences to learning new materials to navigating different work schedules and styles. Through each issues, we've come together as a team and effectively implemented solutions and work-arounds. I know I have grown as a communicator, as a mediator for the team, and as a computer scientist. |
 |Emma| Throughout this first sprint, I have learned a lot about working with others on a big project. My communication was mostly over discord, zoom, and in person meetings. I tried to check discord at least twice a day during the weekdays and more often when deadlines were near. I tried to answer teammates questions as quickly and clearly as possible. Whenever I had a question I would message on discord and my teammates were great about responding in a timely manner. Lastly, I tried to give as much input as I could during meetings. |
 |Connor| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|Matt| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Matt| At the beginning of the semester, we had some communication issues because we hadn't worked with each other before. For example, there was some conflict scheduling our meeting times because half of our team wakes up early in the morning (around 5 am - 6 am), while the other half wakes up around 10 am. Fortunately, we were able to resolve these issues and for the past two weeks of the sprint, we haven't had any more scheduling issues or communication errors. In terms of my personal communication with the team, if I'm being honest, I feel like I messed up earlier on in the sprint, when I didn't communicate to my team one week that I needed more time to complete the assignment. Since then I've tried to be better with my communication and I've been letting my team know if I need more time to complete my work. |
 
 ### Retrospective
 
