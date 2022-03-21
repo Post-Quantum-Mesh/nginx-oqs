@@ -7,11 +7,11 @@
 You can access our team's working prototype (research presentations and demos) through our github folder [presentations](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/presentations)
 
 ## Team members
-1. Team leader: Daniel Rouhana (19671)*
+1. Team leader: Daniel Rouhana (drouhana)*
 1. Team member 2 Emma Dickenson (emmadickenson4)
 1. Team member 3 Connor Dellwo (connordellwo)
 1. Team member 4 Matt Balint (mattbal)
-1. Team member 4 Boris Bugingo- no longer on our team but contributed for the entire sprint up until the sprint report.
+1. Team member 5 Boris Bugingo (19671)- no longer on our team but contributed for the entire sprint up until the sprint report.
 
 ### Progress
 #### Issues, Points and Hours
