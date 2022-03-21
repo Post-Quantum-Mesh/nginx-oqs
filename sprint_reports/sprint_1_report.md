@@ -43,7 +43,7 @@ You can access our team's working prototype (research presentations) at [this si
 |TM2| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 |TM3| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 |TM4| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|TM5| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+
 ### Testing
 
 Since we have not done any coding yet, the only testing that we had was making sure that we understood the material that our sponsor wanted us to understand (quantum and cloud computing). We tested our knowledge by presenting the material to our sponsor. He asked us questions to ensure that we understood the material to the extent that he wanted.
