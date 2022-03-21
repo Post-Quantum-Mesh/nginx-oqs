@@ -62,9 +62,9 @@ Since we have not done any coding yet, the only testing that we had was making s
   </thead> 
   <tbody>
     <tr>
-     <td>3/15/21</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td><td>1</td>
+     <td>3/15/21</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>100</b></td><td><b>100</b></td><td><b>100</b></td><td><b>100</b></td><td><b>1</b></td><td><b>1</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>400</b></td><td><b>100</b></td><td><b>100</b></td><td><b>100</b></td><td><b>100</b></td>
     </tr>
   </tbody>
 </table>
@@ -109,12 +109,12 @@ Since we have not done any coding yet, the only testing that we had was making s
   </thead> 
   <tbody>
     <tr>
-      <td>2/19/22</td><td>45</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>Met at terrell library to go over presentations</td>
+      <td>2/19/22</td><td>90</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>Met at terrell library to go over presentations</td>
     </tr>
      <tr>
-      <td>3/5/22</td><td>20</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>We met at the chinook to practice our presentations</td>
+      <td>3/5/22</td><td>95</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>We met at the chinook to practice our presentations</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>65</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>185</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td></td>
     </tr>
   </tbody>
 </table>
