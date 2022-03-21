@@ -25,13 +25,13 @@ You can access our team's working prototype (research presentations and demos) t
   </thead> 
   <tbody>
     <tr>
-      <td><a href="https://github.com/issue">Issue #1</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>2.25</td><td>3<br/>1.5</td><td>1<br/>0.25</td><td>1<br/>0.5</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td></td>
+      <td><a href="https://github.com/issue">Issue #1</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>2.25</td><td>3<br/>1.5</td><td>1<br/>0.25</td><td>1<br/>0.5</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft Section 1.1.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #2</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Updated database schema. Updated server routes. Did not implement UI.</td>
+     <td><a href="https://github.com/issue">Issue #2</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Project Description Draft Section 1.2.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #3</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Updated database schema. Updated server routes. Did not implement UI.</td>
+     <td><a href="https://github.com/issue">Issue #3</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Completed Project Description Draft Section 3.</td>
     </tr>
     <tr>
      <td><a href="https://github.com/issue">Issue #4</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Updated database schema. Updated server routes. Did not implement UI.</td>
