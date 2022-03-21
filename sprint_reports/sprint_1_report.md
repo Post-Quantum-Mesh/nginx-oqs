@@ -30,11 +30,20 @@ You can access our team's working prototype (research presentations and demos) t
     <tr>
      <td><a href="https://github.com/issue">Issue #</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Updated database schema. Updated server routes. Did not implement UI.</td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>8</b></td><td><b>3</b></td><td><b>1</b></td><td><b>1</b></td><td><b>0.8</b></td><td><b>0.4</b></td><td colspan="2"></td>
+    <tr>
+     <td><a href="https://github.com/issue">Issue #</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Updated database schema. Updated server routes. Did not implement UI.</td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>8</b></td><td><b>3</b></td><td><b>1</b></td><td><b>1</b></td><td><b>0.8</b></td><td><b>0.4</b></td><td colspan="2"></td>
+    <tr>
+     <td><a href="https://github.com/issue">Issue #</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Updated database schema. Updated server routes. Did not implement UI.</td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>8</b></td><td><b>3</b></td><td><b>1</b></td><td><b>1</b></td><td><b>0.8</b></td><td><b>0.4</b></td><td colspan="2"></td>
+    <tr>
+     <td><a href="https://github.com/issue">Issue #</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Updated database schema. Updated server routes. Did not implement UI.</td>
+    </tr>
+    <tr>
+     <td><a href="https://github.com/issue">Issue #</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Updated database schema. Updated server routes. Did not implement UI.</td>
+    </tr>
+    <tr>
+     <td><a href="https://github.com/issue">Issue #</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Updated database schema. Updated server routes. Did not implement UI.</td>
     </tr>
     <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>8</b></td><td><b>3</b></td><td><b>1</b></td><td><b>1</b></td><td><b>0.8</b></td><td><b>0.4</b></td><td colspan="2"></td>
     </tr>
