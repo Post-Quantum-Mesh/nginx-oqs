@@ -15,6 +15,8 @@ You can access our team's working prototype (research presentations and demos) t
 
 ### Progress
 #### Issues, Points and Hours
+
+###### NOTE: We are waiting to update individual points tomorrow once we meet as a team with Dr. H.
 <table> 
   <thead>
     <tr>
