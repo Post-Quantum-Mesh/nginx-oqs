@@ -54,10 +54,10 @@ Since we have not done any coding yet, the only testing that we had was making s
 <table> 
   <thead>
     <tr>
-      <th></th><th colspan="6">Post/Reply Counts</th>
+      <th></th><th colspan="5">Post/Reply Counts</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Total</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th><th>TM5</th>
+      <th>Date</th><th>Total</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th>
     </tr>
   </thead> 
   <tbody>
@@ -65,7 +65,7 @@ Since we have not done any coding yet, the only testing that we had was making s
       <td>11/9/21</td><td>5</td><td>2</td><td>1</td><td>1</td><td>1</td><td>0</td>
     </tr>
     <tr>
-     <td>11/12/21</td><td>4</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td>
+     <td>3/15/21</td><td>4</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td>
     </tr>
     <tr><td align="right"><b>Totals:</b></td><td><b>9</b></td><td><b>3</b></td><td><b>2</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td>
     </tr>
@@ -76,20 +76,20 @@ Since we have not done any coding yet, the only testing that we had was making s
 <table> 
   <thead>
     <tr>
-      <th colspan="2"></th><th colspan="5">In attendance?</th>
+      <th colspan="2"></th><th colspan="4">In attendance?</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Duration (min)</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th><th>TM5</th>
+      <th>Date</th><th>Duration (min)</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th></th>
     </tr>
   </thead> 
   <tbody>
     <tr>
-      <td>11/9/21</td><td>17</td><td>&check;</td><td>&check;</td><td></td><td>&check;</td><td>&check;</td>
+      <td>2/1/22</td><td>75</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
      <tr>
-      <td>11/12/21</td><td>31</td><td>&check;</td><td>&check;</td><td></td><td></td><td>&check;</td>
+      <td>11/12/21</td><td>31</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>48</b></td><td><b>2</b></td><td><b>2</b></td><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>48</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td>
     </tr>
   </tbody>
 </table>
@@ -98,20 +98,20 @@ Since we have not done any coding yet, the only testing that we had was making s
 <table> 
   <thead>
     <tr>
-      <th colspan="2"></th><th colspan="5">In attendance?</th><th></th>
+      <th colspan="2"></th><th colspan="4">In attendance?</th><th></th>
     </tr> 
     <tr>
-      <th>Date</th><th>Duration (min)</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th><th>TM5</th><th>Notes</th>
+      <th>Date</th><th>Duration (min)</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th><th>Notes</th>
     </tr>
   </thead> 
   <tbody>
     <tr>
-      <td>11/10/21</td><td>45</td><td>&check;</td><td>&check;</td><td></td><td>&check;</td><td>&check;</td><td>We met in CUB conference room</td>
+      <td>2/19/22</td><td>45</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>Met at terrell library to go over presentations</td>
     </tr>
      <tr>
-      <td>11/14/21</td><td>20</td><td>&check;</td><td>&check;</td><td></td><td></td><td>&check;</td><td>We met at Starbucks for coffee</td>
+      <td>3/5/22</td><td>20</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>We met at the chinook to practice our presentations</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>65</b></td><td><b>2</b></td><td><b>2</b></td><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td><td></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>65</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td></td>
     </tr>
   </tbody>
 </table>
