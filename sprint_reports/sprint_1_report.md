@@ -11,6 +11,7 @@ You can access our team's working prototype (research presentations and demos) t
 1. Team member 2 Emma Dickenson (emmadickenson4)
 1. Team member 3 Connor Dellwo (connordellwo)
 1. Team member 4 Matt Balint (mattbal)
+1. Team member 4 Boris Bugingo- No longer on our team but contributed for the entire sprint up until the sprint report
 
 ### Progress
 #### Issues, Points and Hours
