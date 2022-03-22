@@ -1,4 +1,4 @@
-# Report for Sprint #1: *F5-Quantum*
+# Report for Sprint 1: *F5-Quantum*
 
 ## Link to Sprint Summary Video
 [Summary video link](https://www.youtube.com/watch?v=2gdfLXIj8r8)
