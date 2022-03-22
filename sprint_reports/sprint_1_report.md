@@ -67,7 +67,7 @@ You can access our team's working prototype (research presentations and demos) t
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/13">Issue #13</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>7</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>5<br/>7</td><td>0<br/>0</td><td>100</td><td>Completed Sprint 1 Video.</td>
     </tr>
         <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/14">Issue #14</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>1</td><td>5<br/>1</td><td>2<br>2</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Sprint 1 Report.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/14">Issue #14</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>1</td><td>5<br/>1</td><td>2<br>2</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Sprint 1 Report.</td>
     </tr>
     <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>391</b></td><td><b>37</b></td><td><b>1</b></td><td><b>1</b></td><td><b>0.8</b></td><td><b>0.4</b></td><td colspan="2"></td>
     </tr>
