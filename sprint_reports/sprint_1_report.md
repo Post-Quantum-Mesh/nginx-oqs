@@ -61,7 +61,7 @@ You can access our team's working prototype (research presentations and demos) t
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/11">Issue #11</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Topic 2 (Quantum Computing) Part 2 Presentation.</td>
     </tr>
      <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/12">Issue #12</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>4<br/>21</td><td>0<br/>0</td><td>75</td><td>Completed Topic 1 (Cloud Computing) Part 2 presentation. <br><br>Presentation is done but we haven't presentated yet to our sponsor. Presentation was originally scheduled before spring break, but had to be pushed back to 3/22.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/12">Issue #12</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>4<br/>21</td><td>4<br/>21</td><td>0<br/>0</td><td>75</td><td>Completed Topic 1 (Cloud Computing) Part 2 presentation. <br><br>Presentation is done but we haven't presentated yet to our sponsor. Presentation was originally scheduled before spring break, but had to be pushed back to 3/22.</td>
     </tr>
     <tr>
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/13">Issue #13</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>7</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>5<br/>7</td><td>0<br/>0</td><td>100</td><td>Completed Sprint 1 Video.</td>
