@@ -34,7 +34,7 @@ You can access our team's working prototype (research presentations and demos) t
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/2">Issue #2</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>1.5</td><td>0<br/>0</td><td>1<br>0.5</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft Section 1.2.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/3">Issue #3</a></td><td><a href="https://github.com/PR">PR #</a></td><td>8<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft Section 3.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/3">Issue #3</a></td><td><a href="https://github.com/PR">PR #</a></td><td>8<br/>10</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>4<br/>7</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft Section 3.</td>
     </tr>
     <tr>
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/4">Issue #4</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>1</td><td>0<br/>0</td><td>4<br>12</td><td>4<br/>0</td><td>5<br/>15</td><td>0<br/>0</td><td>100</td><td>Completed Research Presentation Topic 1 (Cloud Computing) Part 1.</td>
