@@ -37,10 +37,10 @@ You can access our team's working prototype (research presentations and demos) t
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/3">Issue #3</a></td><td><a href="https://github.com/PR">PR #</a></td><td>8<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft Section 3.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/4">Issue #4</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>1</td><td>0<br/>0</td><td>4<br>0</td><td>4<br/>0</td><td>5<br/>15</td><td>0<br/>0</td><td>100</td><td>Completed Research Presentation Topic 1 (Cloud Computing) Part 1.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/4">Issue #4</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>1</td><td>0<br/>0</td><td>4<br>12</td><td>4<br/>0</td><td>5<br/>15</td><td>0<br/>0</td><td>100</td><td>Completed Research Presentation Topic 1 (Cloud Computing) Part 1.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/5">Issue #5</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>30</td><td>11<br/>25</td><td>0<br>0</td><td>4<br/>12</td><td>0<br/>0</td><td>2<br/>5</td><td>100</td><td>Completed Research Presentation Topic 2 (Quantum Computing) Part 1.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/5">Issue #5</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>30</td><td>11<br/>25</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>2<br/>5</td><td>100</td><td>Completed Research Presentation Topic 2 (Quantum Computing) Part 1.</td>
     </tr>
     <tr>
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/6">Issue #6</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0.5<br/>0.5</td><td>0.5<br/>0.5</td><td>0<br/>0</td><td>100</td><td>Finished reviewing Project Description Draft.</td>
