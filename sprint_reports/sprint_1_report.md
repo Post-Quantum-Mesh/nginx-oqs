@@ -46,30 +46,30 @@ You can access our team's working prototype (research presentations and demos) t
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/6">Issue #6</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>1<br/>1</td><td>0.5<br/>0.5</td><td>0<br/>0</td><td>100</td><td>Finished reviewing Project Description Draft.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/7">Issue #7</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1<br/>1</td><td>1<br/>1</td><td>1<br>1</td><td>0<br/>0</td><td>0<br/>0</td><td>0.4<br/>0.5</td><td>100</td><td>Finished reviewing Project Requirements Draft.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/7">Issue #7</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1<br/>1</td><td>1<br/>1</td><td>1<br>1</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Finished reviewing Project Requirements Draft.</td>
     </tr>
     <tr>
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/8">Issue #8</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>3</td><td>0<br/>0</td><td>5<br>3</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft section 1.3.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/9">Issue #9</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>1</td><td>0<br/>0</td><td>0.5<br>1</td><td>1<br/>3</td><td>0.5<br/>2</td><td>0.5<br/>1</td><td>100</td><td>Completed Topic 1 (Cloud Computing) presentation syllabus. </td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/9">Issue #9</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>1</td><td>0<br/>0</td><td>0.5<br>1</td><td>1<br/>3</td><td>0.5<br/>2</td><td>0<br/>0</td><td>100</td><td>Completed Topic 1 (Cloud Computing) presentation syllabus. </td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/10">Issue #10</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0.4<br/>0.5</td><td>100</td><td>Completed Topic 2 (Quantum Computing) presentation syllabus.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/10">Issue #10</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Topic 2 (Quantum Computing) presentation syllabus.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/11">Issue #11</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>30</td><td>12<br/>25</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>1<br/>5</td><td>100</td><td>Completed Topic 2 (Quantum Computing) Part 2 Presentation.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/11">Issue #11</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>30</td><td>12<br/>25</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Topic 2 (Quantum Computing) Part 2 Presentation.</td>
     </tr>
      <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/12">Issue #12</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>1</td><td>0<br/>0</td><td>4<br>12</td><td>5<br/>21</td><td>4<br/>21</td><td>0<br/>0</td><td>75</td><td>Completed Topic 1 (Cloud Computing) Part 2 presentation. <br><br></td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/12">Issue #12</a></td><td><a href="https://github.com/PR">PR #</a></td><td>13<br/>1</td><td>0<br/>0</td><td>4<br>12</td><td>5<br/>21</td><td>4<br/>25</td><td>0<br/>0</td><td>75</td><td>Completed Topic 1 (Cloud Computing) Part 2 presentation. <br><br></td>
     </tr>
     <tr>
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/13">Issue #13</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>7</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>5<br/>7</td><td>0<br/>0</td><td>100</td><td>Completed Sprint 1 Video.</td>
     </tr>
         <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/14">Issue #14</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>1</td><td>5<br/>1</td><td>2<br>2</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Sprint 1 Report.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/14">Issue #14</a></td><td><a href="https://github.com/PR">PR #</a></td><td>8<br/>7</td><td>2<br/>1</td><td>2<br>2</td><td>2<br/>3</td><td>2<br/>1</td><td>0<br/>0</td><td>100</td><td>Completed Sprint 1 Report.</td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>391</b></td><td><b>37</b></td><td><b>1</b></td><td><b>18</b></td><td><b>0.8</b></td><td><b>0.4</b></td><td colspan="2"></td>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>391</b></td><td><b>34</b></td><td><b>18</b></td><td><b>18</b></td><td><b>21<b></b></td><td><b>?</b></td><td colspan="2"></td>
     </tr>
   </tbody>
 </table>
