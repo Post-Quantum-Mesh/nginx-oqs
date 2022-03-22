@@ -28,7 +28,7 @@ You can access our team's working prototype (research presentations and demos) t
   </thead> 
   <tbody>
     <tr>
-      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/1">Issue #1</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>2.5</td><td>5<br/>2.5</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft Section 1.1.</td>
+      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/1">Issue #1</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>2.5</td><td>5<br/>2.5</td><td>0<br/>0</td><td>1<br/>0.5</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft Section 1.1.</td>
     </tr>
     <tr>
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/2">Issue #2</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>1.5</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft Section 1.2.</td>
