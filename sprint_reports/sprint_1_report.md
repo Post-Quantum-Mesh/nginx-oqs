@@ -46,7 +46,7 @@ You can access our team's working prototype (research presentations and demos) t
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/6">Issue #6</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0.5<br/>0.5</td><td>0.5<br/>0.5</td><td>0<br/>0</td><td>100</td><td>Finished reviewing Project Description Draft.</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/7">Issue #7</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1<br/>1</td><td>1<br/>1</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0.4<br/>0.5</td><td>100</td><td>Finished reviewing Project Requirements Draft.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/7">Issue #7</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1<br/>1</td><td>1<br/>1</td><td>1<br>1</td><td>0<br/>0</td><td>0<br/>0</td><td>0.4<br/>0.5</td><td>100</td><td>Finished reviewing Project Requirements Draft.</td>
     </tr>
     <tr>
      <td><a href="https://github.com/wsu-cpts421-sp22/f5-quantum/issues/8">Issue #8</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>3</td><td>0<br/>0</td><td>5<br>3</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td>Completed Project Description Draft section 1.3.</td>
