@@ -1,6 +1,0 @@
-
-Run commands in cwd to generate image:
-
-	sudo docker build -t openssl-nginx.img .
-	
-	sudo docker run --detach --rm --name openssl-nginx -p 8080:8080 openssl-nginx.img
