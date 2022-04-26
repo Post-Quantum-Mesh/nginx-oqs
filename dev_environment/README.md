@@ -83,4 +83,3 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
       
 Sample output
 ![Screenshot from 2022-04-12 06-29-36](https://user-images.githubusercontent.com/56026339/162973512-37a8b464-0357-42ea-be3f-00357345e0ed.png)
-

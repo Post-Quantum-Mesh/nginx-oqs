@@ -39,3 +39,7 @@ Performance metrics can be retrieved from the SSL/TLS handshake using openSSL's 
     ./test.sh -t <TEST_TIME> -s <SIG_ALG>
     
 The flags -s and -t allow for passing parameters to the performance test script. TEST_TIME (default = 10) dictates how long (in seconds) that connections are established. SIG_ALG (default = dilithium3) dictates which quantum-safe cryptographic signing should be used. It is not advised to change the SIG_ALG without first changing the Dockerfile for the TLS/SSL server -- it uses dilithium3 as a default.
+
+### Diagram of NGINX TLS Handshake
+
+![NGINX TLS Handshake Diagram](https://drive.google.com/uc?id=1hASfFvcxFHRVDw9Yi2F1NEN0hPWkRAAN)
