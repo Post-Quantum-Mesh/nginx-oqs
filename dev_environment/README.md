@@ -33,7 +33,7 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
         wget http://www.openssl.org/source/openssl-1.1.1g.tar.gz
         tar -xzf openssl-1.1.1g.tar.gz
         cd openssl-1.1.1g
-        ./configure
+        ./config
         make
         make install
 
@@ -46,7 +46,7 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
         cd liboqs
         mkdir build
         cd build
-        cmake -GNinja -DCMAKE_INSTALL_PREFIX=< OPENSSL_DIR >/oqs ..
+        cmake -GNinja -DCMAKE_INSTALL_PREFIX=< OPENSSL_DIR >/openssl/oqs ..
         ninja
         ninja install
         cd ..
