@@ -66,6 +66,7 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
             --conf-path=/etc/nginx/nginx.conf
             --http-log-path=/var/log/nginx/access.log
             --error-log-path=/var/log/nginx/error.log
+            --with-http_stub_status_module
             --with-pcre
             --with-zlib=/usr/local/zlib-1.2.12
             --pid-path=/var/run/nginx.pid
@@ -73,6 +74,9 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
             --modules-path=/etc/nginx/modules
             --with-http_v2_module
             --with-stream
+            --with-cc-opt="-I /usr/local/openssl/oqs/include"
+            --with-ld-opt="-L /usr/local/openssl/oqs/lib"
+        sed -i "s/libcrypto.a/libcrypto.a -loqs/g" objs/Makefile \
         make
         make install
 
