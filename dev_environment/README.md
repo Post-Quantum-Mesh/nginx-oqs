@@ -38,9 +38,9 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
         make install
 
 
-6. Install OQS-OpenSSL Fork (with liboqs) - < OPENSSL_DIR > is a directory of your choosing (ex: /usr/local)
+6. Install OQS-OpenSSL Fork (with liboqs) - < DIR > is a directory of your choosing (ex: /usr/local) - < OPENSSL_DIR > is the liboqs-openssl fork directory
 
-        cd <OPENSSL_DIR>
+        cd <DIR>
         git clone --branch OQS-OpenSSL_1_1_1-stable https://github.com/open-quantum-safe/openssl.git
         git clone --branch main https://github.com/open-quantum-safe/liboqs.git
         cd liboqs
@@ -50,7 +50,7 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
         ninja
         ninja install
         cd ..
-        cd <DIR>
+        cd <OPENSSL_DIR>
         ./Configure no-shared linux-x86_64 -lm
         make
 
