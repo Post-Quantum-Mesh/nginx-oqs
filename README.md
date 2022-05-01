@@ -10,7 +10,7 @@ Open source implementation of quantum-resistant encryption algorithms for modula
   - [Running](https://github.com/wsu-cpts421-sp22/f5-quantum#running)
     - [NGINX TLS](https://github.com/wsu-cpts421-sp22/f5-quantum#nginx-tls)
     - [Envoy TLS (in progress)](https://github.com/wsu-cpts421-sp22/f5-quantum#envoy-tls---in-progress)
-- [Team](https://github.com/wsu-cpts421-sp22/team)
+- [Team](https://github.com/wsu-cpts421-sp22/f5-quantum#nginx-oqs-l7-proxy)
 
 
 ## Components
