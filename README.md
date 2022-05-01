@@ -4,12 +4,13 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 
 - [Components](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/main#components)
 - [Overview](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/main#overview)
+  - [NGINX-OQS L7 Proxy](https://github.com/wsu-cpts421-sp22/f5-quantum#nginx-oqs-l7-proxy)
 - [Quick Start](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/main#quick-start)
   - [Local Environment Setup](https://github.com/wsu-cpts421-sp22/f5-quantum#local-environment-setup)
   - [Running](https://github.com/wsu-cpts421-sp22/f5-quantum#running)
     - [NGINX TLS](https://github.com/wsu-cpts421-sp22/f5-quantum#nginx-tls)
     - [Envoy TLS (in progress)](https://github.com/wsu-cpts421-sp22/f5-quantum#envoy-tls---in-progress)
-
+- [Team](https://github.com/wsu-cpts421-sp22/team)
 
 
 ## Components
@@ -192,3 +193,11 @@ The flags -s and -t allow for passing parameters to the performance test script.
 ### Envoy TLS - In progress
 
 ( Coming soon )
+
+
+## Team
+
+This project is conducted as a capstone project at Washington State University, in co-operation with F5
+
+- Daniel Rouhana
+- Emma Dickenson
