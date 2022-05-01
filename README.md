@@ -199,5 +199,5 @@ The flags -s and -t allow for passing parameters to the performance test script.
 
 This project is conducted as a capstone project at Washington State University, in co-operation with F5
 
-- Daniel Rouhana
-- Emma Dickenson
+- [Daniel Rouhana](https://github.com/drouhana)
+- [Emma Dickenson](https://github.com/emmadickenson4)
