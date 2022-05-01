@@ -25,7 +25,7 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 - [nginx-1.20.0 open source](https://github.com/nginx/nginx/tree/branches/stable-1.20)
 
 
-### envoy Build (in progress)
+### Envoy Build (in progress)
 - [envoy-1.21 open source](https://github.com/envoyproxy/envoy/tree/release/v1.21)
 
 
