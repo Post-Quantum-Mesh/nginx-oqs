@@ -168,25 +168,25 @@ Full instructions can be found in [/nginx_openssl_tls/README.md](https://github.
 
 Open one terminal and run the following command:
 
-    ./init.sh
+        ./init.sh
 	
 2. Query TLS Server:
 
 In a second terminal, run the following command:
 	
-    ./query.sh
+        ./query.sh
 
 3. Terminate TLS Server:
 
 In a second terminal, run the following command:
     
-    ./kill.sh
+        ./kill.sh
 
 4. Benchmarking:
 
 Performance metrics can be retrieved from the SSL/TLS handshake using openSSL's s_time function. In a second terminal, run the following command:
 
-    ./test.sh -t <TEST_TIME> -s <SIG_ALG>
+        ./test.sh -t <TEST_TIME> -s <SIG_ALG>
     
 The flags -s and -t allow for passing parameters to the performance test script. TEST_TIME (default = 10) dictates how long (in seconds) that connections are established. SIG_ALG (default = dilithium3) dictates which quantum-safe cryptographic signing should be used. It is not advised to change the SIG_ALG without first changing the Dockerfile for the TLS/SSL server -- it uses dilithium3 as a default.
 
