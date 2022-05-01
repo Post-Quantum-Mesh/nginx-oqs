@@ -2,13 +2,13 @@
 
 Open source implementation of quantum-resistant encryption algorithms for modular TLS communication
 
-- Components
-- Overview
-- Quick Start
-  - Local Environment Setup
-  - Running
-    - NGINX TLS
-    - Envoy TLS (in progress)  
+- [Components](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/main#components)
+- [Overview](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/main#overview)
+- [Quick Start](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/main#quick-start)
+  - [Local Environment Setup](https://github.com/wsu-cpts421-sp22/f5-quantum#local-environment-setup)
+  - [Running](https://github.com/wsu-cpts421-sp22/f5-quantum#running)
+    - [NGINX TLS](https://github.com/wsu-cpts421-sp22/f5-quantum#nginx-tls)
+    - [Envoy TLS (in progress)](https://github.com/wsu-cpts421-sp22/f5-quantum#envoy-tls---in-progress)
 
 
 
@@ -156,6 +156,8 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
 12. Verify Installation
 
         envoy --version
+
+## Running
 
 ### NGINX TLS
 
