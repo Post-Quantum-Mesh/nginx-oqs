@@ -164,30 +164,22 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
 
 Full instructions can be found in [/nginx_openssl_tls/README.md](https://github.com/wsu-cpts421-sp22/f5-quantum/blob/main/nginx_openssl_tls/README.md)
 
-1. Startup TLS Server:
-
-Open one terminal and run the following command:
+1. Startup TLS Server: Open one terminal and run the following command:
 
         ./init.sh
-	
-2. Query TLS Server:
 
-In a second terminal, run the following command:
-	
+2. Query TLS Server: In a second terminal, run the following command:
+
         ./query.sh
 
-3. Terminate TLS Server:
+3. Terminate TLS Server: In a second terminal, run the following command:
 
-In a second terminal, run the following command:
-    
         ./kill.sh
 
-4. Benchmarking:
-
-Performance metrics can be retrieved from the SSL/TLS handshake using openSSL's s_time function. In a second terminal, run the following command:
+4. Benchmarking: Performance metrics can be retrieved from the SSL/TLS handshake using openSSL's s_time function. In a second terminal, run the following command:
 
         ./test.sh -t <TEST_TIME> -s <SIG_ALG>
-    
+
 The flags -s and -t allow for passing parameters to the performance test script. TEST_TIME (default = 10) dictates how long (in seconds) that connections are established. SIG_ALG (default = dilithium3) dictates which quantum-safe cryptographic signing should be used. It is not advised to change the SIG_ALG without first changing the Dockerfile for the TLS/SSL server -- it uses dilithium3 as a default.
 
 ### Envoy TLS - In progress
