@@ -101,8 +101,9 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
         make
 
 
-8. Install OQS-BoringSSL Fork < BORINGGSL_DIR > is the liboqs-boringssl fork directory
+8. Install OQS-BoringSSL Fork < BORINGGSL_DIR > is the liboqs-boringssl fork directory - this example uses /usr/local
 
+        git clone --branch master https://github.com/open-quantum-safe/boringssl.git 
         git clone --branch main --single-branch --depth 1 https://github.com/open-quantum-safe/liboqs.git
         cd liboqs
         mkdir build && cd build
