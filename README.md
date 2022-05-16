@@ -183,9 +183,9 @@ Full instructions can be found in [/nginx_openssl_tls/README.md](https://github.
 
 The flags -s and -t allow for passing parameters to the performance test script. TEST_TIME (default = 10) dictates how long (in seconds) that connections are established. SIG_ALG (default = dilithium3) dictates which quantum-safe cryptographic signing should be used. It is not advised to change the SIG_ALG without first changing the Dockerfile for the TLS/SSL server -- it uses dilithium3 as a default.
 
-### Envoy TLS - In progress
+### Envoy TLS - IN PROGRESS
 
-( Coming soon )
+Current working instructions can be found in [/envoy_tls/README.md](https://github.com/wsu-cpts421-sp22/f5-quantum/blob/main/envoy_tls/README.md)
 
 
 ## Team
