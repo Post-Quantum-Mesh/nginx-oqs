@@ -1,0 +1,20 @@
+#FROM envoyproxy/envoy-build-ubuntu:6fff5a6c67db843ddabde4533e24cab6122c7011
+FROM envoyproxy/envoy:v1.21.2
+
+WORKDIR ./certs
+CMD ["chown $USER *"]
+
+COPY ./certs/front-proxy-crt.pem /etc/example/front-proxy-crt.pem
+COPY ./certs/front-proxy-key.pem /etc/example/front-proxy-key.pem
+COPY ./certs/custom-ca-certificates.crt /etc/example/custom-ca-certificates.crt
+COPY ./envoy-https-http.yaml /etc/envoy.yaml
+
+WORKDIR /etc/example
+CMD ["chown $USER -R *"]
+
+RUN chmod go+r /etc/example/front-proxy-crt.pem
+RUN chmod go+r /etc/example/front-proxy-key.pem
+RUN chmod go+r /etc/example/custom-ca-certificates.crt
+RUN chmod go+r /etc/envoy.yaml
+
+CMD ["/usr/local/bin/envoy", "-c /etc/envoy.yaml"]
