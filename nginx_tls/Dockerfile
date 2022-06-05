@@ -95,52 +95,52 @@ WORKDIR ${NGINX_PATH}
 
 
 # Generate generically named cert, key
-RUN set -x \
-    && mkdir cacert \
-    && mkdir pki \
-    && ${OPENSSL_PATH}/apps/openssl req -x509 -new \
-      -newkey ${SIG_ALG} \
-      -keyout CA.key \
-      -out cacert/CA.crt -nodes -subj "/CN=localhost" -days 365 \
-      -config ${OPENSSL_PATH}/apps/openssl.cnf \
-    && ${OPENSSL_PATH}/apps/openssl req -new \
-      -newkey ${SIG_ALG} \
-      -keyout pki/server.key \
-      -out server.csr \
-      -nodes \
-      -subj "/CN=oqs-nginx" \
-      -config ${OPENSSL_PATH}/apps/openssl.cnf \
-    && ${OPENSSL_PATH}/apps/openssl x509 -req \
-      -in server.csr \
-      -out pki/server.crt \
-      -CA cacert/CA.crt \
-      -CAkey CA.key \
-      -CAcreateserial \
-      -days 365
-
-# Generate named dilithium3 cert, key
 #RUN set -x \
 #    && mkdir cacert \
 #    && mkdir pki \
 #    && ${OPENSSL_PATH}/apps/openssl req -x509 -new \
 #      -newkey ${SIG_ALG} \
-#      -keyout ${SIG_ALG}_CA.key \
-#      -out cacert/${SIG_ALG}_CA.crt -nodes -subj "/CN=localhost" -days 365 \
+#      -keyout CA.key \
+#      -out cacert/CA.crt -nodes -subj "/CN=localhost" -days 365 \
 #      -config ${OPENSSL_PATH}/apps/openssl.cnf \
 #    && ${OPENSSL_PATH}/apps/openssl req -new \
 #      -newkey ${SIG_ALG} \
-#      -keyout pki/${SIG_ALG}_srv.key \
-#      -out ${SIG_ALG}_srv.csr \
+#      -keyout pki/server.key \
+#      -out server.csr \
 #      -nodes \
 #      -subj "/CN=oqs-nginx" \
 #      -config ${OPENSSL_PATH}/apps/openssl.cnf \
 #    && ${OPENSSL_PATH}/apps/openssl x509 -req \
-#      -in ${SIG_ALG}_srv.csr \
-#      -out pki/${SIG_ALG}_srv.crt \
-#      -CA cacert/${SIG_ALG}_CA.crt \
-#      -CAkey ${SIG_ALG}_CA.key \
+#      -in server.csr \
+#      -out pki/server.crt \
+#      -CA cacert/CA.crt \
+#      -CAkey CA.key \
 #      -CAcreateserial \
 #      -days 365
+
+# Generate named dilithium3 cert, key
+RUN set -x \
+    && mkdir cacert \
+    && mkdir pki \
+    && ${OPENSSL_PATH}/apps/openssl req -x509 -new \
+      -newkey ${SIG_ALG} \
+      -keyout ${SIG_ALG}_CA.key \
+      -out cacert/${SIG_ALG}_CA.crt -nodes -subj "/CN=localhost" -days 365 \
+      -config ${OPENSSL_PATH}/apps/openssl.cnf \
+    && ${OPENSSL_PATH}/apps/openssl req -new \
+      -newkey ${SIG_ALG} \
+      -keyout pki/${SIG_ALG}_srv.key \
+      -out ${SIG_ALG}_srv.csr \
+      -nodes \
+      -subj "/CN=oqs-nginx" \
+      -config ${OPENSSL_PATH}/apps/openssl.cnf \
+    && ${OPENSSL_PATH}/apps/openssl x509 -req \
+      -in ${SIG_ALG}_srv.csr \
+      -out pki/${SIG_ALG}_srv.crt \
+      -CA cacert/${SIG_ALG}_CA.crt \
+      -CAkey ${SIG_ALG}_CA.key \
+      -CAcreateserial \
+      -days 365
 
 
 
