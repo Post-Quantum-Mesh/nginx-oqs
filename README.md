@@ -9,8 +9,6 @@ Open source implementation of quantum-resistant encryption algorithms for modula
   - [Local Environment Setup](https://github.com/wsu-cpts421-sp22/f5-quantum#local-environment-setup)
   - [Running](https://github.com/wsu-cpts421-sp22/f5-quantum#running)
     - [NGINX TLS](https://github.com/wsu-cpts421-sp22/f5-quantum#nginx-tls)
-    - [Envoy TLS (in progress)](https://github.com/wsu-cpts421-sp22/f5-quantum#envoy-tls---in-progress)
-- [Team](https://github.com/wsu-cpts421-sp22/f5-quantum#team)
 
 
 ## Components
@@ -23,10 +21,6 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 
 ### NGINX Build
 - [nginx-1.20.0 open source](https://github.com/nginx/nginx/tree/branches/stable-1.20)
-
-
-### Envoy Build (in progress)
-- [envoy-1.21 open source](https://github.com/envoyproxy/envoy/tree/release/v1.21)
 
 
 ## Overview
@@ -100,22 +94,6 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
         ./config --openssldir=/usr/local/ssl
         make
 
-
-8. Install OQS-BoringSSL Fork < BORINGGSL_DIR > is the liboqs-boringssl fork directory - this example uses /usr/local
-
-        git clone --branch master https://github.com/open-quantum-safe/boringssl.git 
-        cd liboqs
-        mkdir build && cd build
-        cmake -G"Ninja" -DCMAKE_INSTALL_PREFIX=< BORINGSSL_DIR >/oqs -DOQS_USE_OPENSSL=OFF ..
-        ninja
-        ninja install
-        cd ..
-        cd < BORINGSSL_DIR >
-        mkdir build
-        cd build
-        cmake -GNinja ..
-        ninja
-
 9. Install NGINX Stable From Source (currently using stable 1.20.2)
 
         wget http://nginx.org/download/nginx-1.20.2.tar.gz 
@@ -141,19 +119,6 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
 
         nginx -V
 
-11. Build envoy stable from source (currently using stable 1.21.0)
-
-        apt install -y apt-transport-https gnupg2 curl lsb-release
-        curl -sL 'https://deb.dl.getenvoy.io/public/gpg.8115BA8E629CC074.key' | sudo gpg --dearmor -o /usr/share/keyrings/getenvoy-keyring.gpg
-        echo a077cb587a1b622e03aa4bf2f3689de14658a9497a9af2c427bba5f4cc3c4723 /usr/share/keyrings/getenvoy-keyring.gpg | sha256sum --check
-        echo "deb [arch=amd64 signed-by=/usr/share/keyrings/getenvoy-keyring.gpg] https://deb.dl.getenvoy.io/public/deb/ubuntu $(lsb_release -cs) main" | tee /etc/apt/sources.list.d/getenvoy.list
-        apt update
-        apt install -y getenvoy-envoy
-
-12. Verify Installation
-
-        envoy --version
-
 ## Running
 
 ### NGINX TLS
@@ -172,20 +137,8 @@ Full instructions can be found in [/nginx_openssl_tls/README.md](https://github.
 
         ./kill.sh
 
-4. Benchmarking: Performance metrics can be retrieved from the SSL/TLS handshake using openSSL's s_time function. In a second terminal, run the following command:
+4. Benchmarking: Basic performance metrics can be retrieved from the SSL/TLS handshake using openSSL's s_time function. In a second terminal, run the following command:
 
         ./test.sh -t <TEST_TIME> -s <SIG_ALG>
 
 The flags -s and -t allow for passing parameters to the performance test script. TEST_TIME (default = 10) dictates how long (in seconds) that connections are established. SIG_ALG (default = dilithium3) dictates which quantum-safe cryptographic signing should be used. It is not advised to change the SIG_ALG without first changing the Dockerfile for the TLS/SSL server -- it uses dilithium3 as a default.
-
-### Envoy TLS - IN PROGRESS
-
-Current working instructions can be found in [/envoy_tls/README.md](https://github.com/wsu-cpts421-sp22/f5-quantum/blob/main/envoy_tls/README.md)
-
-
-## Team
-
-This project is conducted as a capstone project at Washington State University, in co-operation with F5
-
-- [Daniel Rouhana](https://github.com/drouhana)
-- [Emma Dickenson](https://github.com/emmadickenson4)
