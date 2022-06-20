@@ -36,11 +36,10 @@ Note:
   
 1. Update package manager
 
-        apt update
+        apt-get update
 
 2. Install Dependencies and Compiler
 
-        apt-get update
         apt-get install -y gcc build-essential libpcre3 libpcre3-dev zlib1g zlib1g-dev libssl-dev libgd-dev \
           libxml2 libxml2-dev uuid-dev astyle doxygen zlib1g zlib1g-dev liperl-dev wget make git autoconf \
           automake unzip patch virtualenv docker-compose jq libunwind-dev pkg-config python3 python3-pip python3-psutil
