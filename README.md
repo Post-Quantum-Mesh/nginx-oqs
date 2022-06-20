@@ -1,5 +1,8 @@
 # Post-Quantum NGINX Layer 7 Proxy
 
+![nginx_logo](https://user-images.githubusercontent.com/56026339/174643028-a56dbeee-60c2-489e-b62b-71cb594c7ee2.png)  
+
+  
 Open source implementation of quantum-resistant encryption algorithms for modular TLS communication
 
 - [Components](https://github.com/Post-Quantum-Mesh/nginx-oqs#components)
@@ -31,7 +34,9 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 
 ### Local Environment Setup
 
-Note: ./configure commands followed by indented parameters (ex: ./configure --prefix=/usr/local) are all one-line commands
+Note: 
+- ./configure commands followed by indented parameters (ex: ./configure --prefix=/usr/local) are all one-line commands
+- All installation paths are assuming install directory is /usr/local
 
 1. Update package manager
 
@@ -76,39 +81,37 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
         make
         make install
 
-7. Install OQS-OpenSSL Fork (with liboqs) - < DIR > is a directory of your choosing (ex: /usr/local) - < OPENSSL_DIR > is the liboqs-openssl fork directory
+7. Install OQS-OpenSSL Fork (with liboqs)
 
-        cd <DIR>
         git clone --branch OQS-OpenSSL_1_1_1-stable https://github.com/open-quantum-safe/openssl.git
         git clone --branch main https://github.com/open-quantum-safe/liboqs.git
         cd liboqs
         mkdir build
         cd build
-        cmake -GNinja -DCMAKE_INSTALL_PREFIX=< OPENSSL_DIR >/openssl/oqs ..
+        cmake -GNinja -DCMAKE_INSTALL_PREFIX=/usr/local/openssl/oqs ..
         ninja
         ninja install
-        cd ..
-        cd <OPENSSL_DIR>
+        cd /usr/local/openssl
         ./config --openssldir=/usr/local/ssl
         make
 
-9. Install NGINX Stable From Source (currently using stable 1.20.2)
+9. Install NGINX Stable From Source (currently using stable 1.20.0)
 
-        wget http://nginx.org/download/nginx-1.20.2.tar.gz 
-        tar -xzf nginx-1.20.2.tar.gz
-        cd nginx-1.20.2
-        ./configure
-	    --prefix=/usr/local/nginx
-	    --sbin-path=/usr/sbin/nginx
-	    --with-debug
-	    --with-pcre
-	    --with-zlib=/usr/local/zlib-1.2.12
-	    --without-http_gzip_module
-	    --with-http_stub_status_module
-	    --with-http_ssl_module
-	    --modules-path=/etc/nginx/modules
-	    --with-cc-opt="-I/usr/local/openssl/oqs/include"
-	    --with-ld-opt="-L/usr/local/openssl/oqs/lib"
+        wget http://nginx.org/download/nginx-1.20.0.tar.gz 
+        tar -xzf nginx-1.20.0.tar.gz
+        cd nginx-1.20.0
+        ./configure \
+            --prefix=/usr/local/nginx \
+            --sbin-path=/usr/sbin/nginx \
+            --with-debug \
+            --with-pcre \
+            --with-zlib=/usr/local/zlib-1.2.12 \
+            --without-http_gzip_module \
+            --with-http_stub_status_module \
+            --with-http_ssl_module \
+            --modules-path=/etc/nginx/modules \
+            --with-cc-opt="-I/usr/local/openssl/oqs/include" \
+            --with-ld-opt="-L/usr/local/openssl/oqs/lib" \
         sed -i "s/libcrypto.a/libcrypto.a -loqs/g" objs/Makefile
         make
         make install
