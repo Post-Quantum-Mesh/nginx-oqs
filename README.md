@@ -2,14 +2,12 @@
 
 Open source implementation of quantum-resistant encryption algorithms for modular TLS communication
 
-- [Components](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/main#components)
-- [Overview](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/main#overview)
-  - [NGINX-OQS L7 Proxy](https://github.com/wsu-cpts421-sp22/f5-quantum#nginx-oqs-l7-proxy)
+- [Components](https://github.com/Post-Quantum-Mesh/nginx-oqs#components)
+- [Overview](https://github.com/Post-Quantum-Mesh/nginx-oqs#overview)
+  - [L7 Proxy](https://github.com/Post-Quantum-Mesh/nginx-oqs#l7-proxy)
 - [Quick Start](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/main#quick-start)
-  - [Local Environment Setup](https://github.com/wsu-cpts421-sp22/f5-quantum#local-environment-setup)
-  - [Running](https://github.com/wsu-cpts421-sp22/f5-quantum#running)
-    - [NGINX TLS](https://github.com/wsu-cpts421-sp22/f5-quantum#nginx-tls)
-
+  - [Local Environment Setup](https://github.com/Post-Quantum-Mesh/nginx-oqs#local-environment-setup)
+  - [TLS Demo](https://github.com/Post-Quantum-Mesh/nginx-oqs#tls-demo)
 
 ## Components
 
@@ -119,26 +117,46 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
 
         nginx -V
 
-## Running
+## TLS Demo
 
-### NGINX TLS
+### Startup TLS Server:
 
-Full instructions can be found in [/nginx_openssl_tls/README.md](https://github.com/wsu-cpts421-sp22/f5-quantum/blob/main/nginx_openssl_tls/README.md)
+Open one terminal and run the following command:
 
-1. Startup TLS Server: Open one terminal and run the following command:
+    ./init.sh
+	
+The following commands will be run by the shell script:
 
-        ./init.sh
+    sudo docker build -t tls-test-img .
+    sudo docker network create test_net
+    sudo docker run --network test_net --name tls-test-img -p 4433:4433 tls-test-img
+	
+### Query TLS Server:
 
-2. Query TLS Server: In a second terminal, run the following command:
+In a second terminal, run the following command:
+	
+    ./query.sh
 
-        ./query.sh
+The following command retrieves the [curl](https://hub.docker.com/r/openquantumsafe/curl) image enabled with quantum-safe crypto operations. It can be used to retrieve data from any OQS-enabled TLS1.3 server as follows:
 
-3. Terminate TLS Server: In a second terminal, run the following command:
+    sudo docker run --network test_net -it openquantumsafe/curl curl -k https://tls-test-img:4433 -e SIG_ALG=dilithium3
 
-        ./kill.sh
+### Terminate TLS Server:
 
-4. Benchmarking: Basic performance metrics can be retrieved from the SSL/TLS handshake using openSSL's s_time function. In a second terminal, run the following command:
+In a second terminal, run the following command:
+    
+    ./kill.sh
 
-        ./test.sh -t <TEST_TIME> -s <SIG_ALG>
+The following commands will be run by the shell script:
 
+    sudo docker kill tls-test-img
+    sudo docker container prune -f
+    sudo docker network prune -f
+
+### Benchmarking:
+
+Simple performance metrics can be retrieved from the SSL/TLS handshake using openSSL's s_time function. In a second terminal, run the following command:
+
+    ./test.sh -t <TEST_TIME> -s <SIG_ALG>
+    
 The flags -s and -t allow for passing parameters to the performance test script. TEST_TIME (default = 10) dictates how long (in seconds) that connections are established. SIG_ALG (default = dilithium3) dictates which quantum-safe cryptographic signing should be used. It is not advised to change the SIG_ALG without first changing the Dockerfile for the TLS/SSL server -- it uses dilithium3 as a default.
