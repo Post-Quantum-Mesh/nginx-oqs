@@ -1,11 +1,11 @@
-# Post-Quantum Prototype Layer 7 Proxy
+# Post-Quantum NGINX Layer 7 Proxy
 
 Open source implementation of quantum-resistant encryption algorithms for modular TLS communication
 
 - [Components](https://github.com/Post-Quantum-Mesh/nginx-oqs#components)
 - [Overview](https://github.com/Post-Quantum-Mesh/nginx-oqs#overview)
   - [L7 Proxy](https://github.com/Post-Quantum-Mesh/nginx-oqs#l7-proxy)
-- [Quick Start](https://github.com/wsu-cpts421-sp22/f5-quantum/tree/main#quick-start)
+- [Quick Start](https://github.com/Post-Quantum-Mesh/nginx-oqs#quick-start)
   - [Local Environment Setup](https://github.com/Post-Quantum-Mesh/nginx-oqs#local-environment-setup)
   - [TLS Demo](https://github.com/Post-Quantum-Mesh/nginx-oqs#tls-demo)
 
@@ -23,7 +23,7 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 
 ## Overview
 
-### NGINX-OQS L7 Proxy
+### L7 Proxy
 
 ![NGINX TLS Handshake Diagram](https://drive.google.com/uc?id=1hASfFvcxFHRVDw9Yi2F1NEN0hPWkRAAN)
 
