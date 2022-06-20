@@ -97,7 +97,7 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
         ninja install
         cd ..
         cd <OPENSSL_DIR>
-        ./Configure no-shared linux-x86_64 -lm
+        ./config --openssldir=/usr/local/ssl
         make
 
 
@@ -116,27 +116,23 @@ Note: ./configure commands followed by indented parameters (ex: ./configure --pr
         cmake -GNinja ..
         ninja
 
-9. Install NGINX Stable From Source (currently using stable 1.20.0)
+9. Install NGINX Stable From Source (currently using stable 1.20.2)
 
-        wget http://nginx.org/download/nginx-1.20.0.tar.gz 
-        tar -xzf nginx-1.20.0.tar.gz
-        cd nginx-1.20.0
-        ./configure 
-            --prefix=/usr/local/nginx
-            --sbin-path=/usr/sbin/nginx
-            --conf-path=/etc/nginx/nginx.conf
-            --http-log-path=/var/log/nginx/access.log
-            --error-log-path=/var/log/nginx/error.log
-            --with-http_stub_status_module
-            --with-pcre
-            --with-zlib=/usr/local/zlib-1.2.12
-            --pid-path=/var/run/nginx.pid
-            --with-http_ssl_module
-            --modules-path=/etc/nginx/modules
-            --with-http_v2_module
-            --with-stream
-            --with-cc-opt="-I /usr/local/openssl/oqs/include"
-            --with-ld-opt="-L /usr/local/openssl/oqs/lib"
+        wget http://nginx.org/download/nginx-1.20.2.tar.gz 
+        tar -xzf nginx-1.20.2.tar.gz
+        cd nginx-1.20.2
+        ./configure
+	    --prefix=/usr/local/nginx
+	    --sbin-path=/usr/sbin/nginx
+	    --with-debug
+	    --with-pcre
+	    --with-zlib=/usr/local/zlib-1.2.12
+	    --without-http_gzip_module
+	    --with-http_stub_status_module
+	    --with-http_ssl_module
+	    --modules-path=/etc/nginx/modules
+	    --with-cc-opt="-I/usr/local/openssl/oqs/include"
+	    --with-ld-opt="-L/usr/local/openssl/oqs/lib"
         sed -i "s/libcrypto.a/libcrypto.a -loqs/g" objs/Makefile
         make
         make install
