@@ -1,4 +1,4 @@
-# Post-Quantum NGINX Build
+# Post-Quantum NGINX Deployment
 
 ![nginx_logo](https://user-images.githubusercontent.com/56026339/174643028-a56dbeee-60c2-489e-b62b-71cb594c7ee2.png)  
 
