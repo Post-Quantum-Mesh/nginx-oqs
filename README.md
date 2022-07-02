@@ -100,7 +100,7 @@ Note:
             --with-http_ssl_module \
             --modules-path=/etc/nginx/modules \
             --with-cc-opt="-I/usr/local/openssl/oqs/include" \
-            --with-ld-opt="-L/usr/local/openssl/oqs/lib" \
+            --with-ld-opt="-L/usr/local/openssl/oqs/lib"
         sed -i "s/libcrypto.a/libcrypto.a -loqs/g" objs/Makefile
         make
         make install
