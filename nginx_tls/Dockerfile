@@ -79,7 +79,7 @@ RUN ./configure \
       --with-cc-opt="-I${OPENSSL_PATH}/oqs/include" \
       --with-ld-opt="-L${OPENSSL_PATH}/oqs/lib" \
     && sed -i "s/libcrypto.a/libcrypto.a -loqs/g" objs/Makefile \
-    && make ${MAKE_DEFINES} \
+    && make \
     && make install
 
 
